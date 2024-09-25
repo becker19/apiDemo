@@ -1,16 +1,14 @@
 {
-  [
-    "chryroll":{
-      "username":"demo@gmail.com",
-      "password":"password"
+    "chryroll": {
+        "username": "demo@gmail.com",
+        "password": "password"
     },
-    "netflix":{
-      "username":"demo@gmail.com",
-      "password":"password"
+    "netflix": {
+        "username": "demo@gmail.com",
+        "password": "password"
     },
-    "prime":{
-      "username":"demo@gmail.com",
-      "password":"password"
+    "prime": {
+        "username": "demo@gmail.com",
+        "password": "password"
     }
-  ]
 }
